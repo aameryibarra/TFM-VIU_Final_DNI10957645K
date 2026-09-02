@@ -10,8 +10,8 @@ env/
 *.tar.gz
 
 # Configuraciones y carpetas temporales
-.claude/
-.claude*
+.*
+!.gitignore
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
